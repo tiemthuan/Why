@@ -1,0 +1,5 @@
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\BookLibs\bin\Debug\BookLibs.dll
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\BookLibs\bin\Debug\BookLibs.pdb
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\BookLibs\obj\Debug\BookLibs.csproj.CoreCompileInputs.cache
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\BookLibs\obj\Debug\BookLibs.dll
+E:\CHUYÊN NGÀNH 5\C#\BookLibs\BookLibs\obj\Debug\BookLibs.pdb
